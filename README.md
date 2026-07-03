@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project uses K-Means clustering to segment customers based on their demographics, purchasing behavior, and engagement data. The goal is to identify meaningful customer groups to support personalized marketing strategies.
+This project various clustering methods to segment customers based on their demographics, purchasing behavior, and engagement data. The goal is to identify meaningful customer groups to support personalized marketing strategies.
 
 ## Technologies Used
 
@@ -34,11 +34,4 @@ This project uses K-Means clustering to segment customers based on their demogra
 ## Dataset
 
 The dataset is not included in this repository.
-
-## Project Structure
-
-```
-smartcart.ipynb
-README.md
-requirements.txt
-```
+Instead image of 30 person's data
